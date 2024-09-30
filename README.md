@@ -1,2 +1,2 @@
 # READ-ME.md
-quête
+Prête pour ma formation à la wild code school
